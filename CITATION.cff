@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "PGNN for binary state-of-charge classification from EIS"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Raju
+    given-names: Amruthamsha Prashanth
+  - family-names: Bandi
+    given-names: Revanasiddappa
+  - family-names: Jayaprakash
+    given-names: Gururaj Kudur
+  - family-names: Ibrahim
+    given-names: Ahmed B. M.
+  - family-names: Naik
+    given-names: Praveen
+preferred-citation:
+  type: article
+  title: "A Physics-Guided Regularised Neural Network for Binary State-of-Charge Classification of Lithium-Ion Batteries Using Electrochemical Impedance Spectroscopy"
+  authors:
+    - family-names: Raju
+      given-names: Amruthamsha Prashanth
+    - family-names: Bandi
+      given-names: Revanasiddappa
+    - family-names: Jayaprakash
+      given-names: Gururaj Kudur
+    - family-names: Ibrahim
+      given-names: Ahmed B. M.
+    - family-names: Naik
+      given-names: Praveen
+  journal: "Frontiers in Chemistry"
+  status: submitted
