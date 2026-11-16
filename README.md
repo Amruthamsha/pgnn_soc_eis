@@ -4,7 +4,7 @@ Code, data splits, and results for:
 
 > Raju, A. P., Bandi, R., Jayaprakash, G. K., Ibrahim, A. B. M., and Naik, P.
 > *A Physics-Guided Regularised Neural Network for Binary State-of-Charge Classification of
-> Lithium-Ion Batteries Using Electrochemical Impedance Spectroscopy.* Manuscript under review,
+> Lithium-Ion Batteries Using Electrochemical Impedance Spectroscopy.* Accepted, in press,
 > Frontiers in Chemistry.
 
 The model is a feed-forward network (15-128-128-64-2, tanh, dropout 0.2) trained on
